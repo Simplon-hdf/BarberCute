@@ -1,0 +1,10 @@
+/* CSS for Services page (cards) */
+h1 {
+    text-align: center;
+}
+.services.container {
+    display: grid;
+    justify-content: center;
+  }
+
+  

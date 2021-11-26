@@ -7,9 +7,5 @@ p, figcaption, span, ul, li {
   font-family: 'Oranienbaum', serif;
 }
 
-/* CSS for Services page (cards) */
-.service.container {
-  display: grid;
-  justify-content: center;
-}
+
 
