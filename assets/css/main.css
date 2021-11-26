@@ -3,12 +3,12 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Playball', cursive;
 }
 
-p, figcaption, span {
+p, figcaption, span, ul, li {
   font-family: 'Oranienbaum', serif;
 }
 
 /* CSS for Services page (cards) */
-.container {
+.service.container {
   display: grid;
   justify-content: center;
 }
