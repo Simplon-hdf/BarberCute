@@ -10,7 +10,6 @@ p, figcaption, span {
 /* CSS for Services page (cards) */
 .container {
   display: grid;
-  grid-template-rows: start;
-
+  justify-content: center;
 }
 
