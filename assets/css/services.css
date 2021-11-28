@@ -2,9 +2,29 @@
 h1 {
     text-align: center;
 }
+
+figure {
+    width: 100%;
+}
+
+img {
+    width: 100%;
+}
+
 .services.container {
     display: grid;
     justify-content: center;
-  }
+    align-items: center;
+}
+
+.card {
+    width: calc(100% / 3);
+    margin: 5rem;
+    display: grid;
+    background-color: #ffffff;
+    box-shadow: 0 .5rem .4rem .4rem rgba(34, 34, 34, 0.05);
+    border-radius: 1rem;
+    grid-template-rows: 50%;
+}
 
   
